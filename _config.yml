@@ -6,21 +6,25 @@
 # --- Required options --- #
 
 # Name of website
-title: "Martin Debouté"
+title: Martin Debouté
 
 # Your name to show in the footer
-author: "Martin Debouté"
+author: Martin Debouté
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/me.jpg"
+avatar: "/assets/img/me.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -36,21 +40,21 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "martin.deboute@gmail.com"
-#  facebook: yourname
   github: mdeboute
-#  twitter: yourname
-#  patreon: yourname
-#  youtube: c/yourname
+  linkedin: mdeboute
+  instagram: martin_dbt
+  spotify: 21ad7nk5vauuw22xsosnda6ka
+  telephone: +33783218168
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
+#  facebook: deanattali
 #  medium: yourname
 #  reddit: yourname
-   linkedin: mdeboute
 #  xing: yourname
-#  stackoverflow: "yourname"
-#  snapchat: yourname
-   instagram: martin_dbt
-   spotify: "21ad7nk5vauuw22xsosnda6ka"
-   telephone: "+33783218168"
-#  steam: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -67,8 +71,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: true
+  facebook: true
   linkedin: true
   vk: false
 
@@ -86,7 +90,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "martin, debouté, deboute, mdeboute"
+keywords: "martin,deboute,mdeboute,debouté"
 
 # --- Colours / background image --- #
 
@@ -111,7 +115,7 @@ footer-link-col: "#404040"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
- mobile-theme-col: "#0085A1"
+mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
