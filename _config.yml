@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Martin Debouté
+title: "Martin Debouté"
 
 # Your name to show in the footer
-author: Martin Debouté
+author: "Martin Debouté"
 
 # --- List of links in the navigation bar --- #
 
@@ -48,8 +48,8 @@ social-network-links:
 #  stackoverflow: "yourname"
 #  snapchat: yourname
    instagram: martin_dbt
-   spotify: 21ad7nk5vauuw22xsosnda6ka
-   telephone: +33783218168
+   spotify: "21ad7nk5vauuw22xsosnda6ka"
+   telephone: "+33783218168"
 #  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
