@@ -14,11 +14,11 @@ author: Martin Debouté
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  À propos: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  My GitHub: "https://github.com/mdeboute"
+  Mon CV: "/_docs/CV_2021.pdf"
 
 # --- Logo --- #
 
@@ -31,7 +31,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/logo/logo_large.png"
+title-img: "/assets/img/logo/logo_small.png"
 
 
 # --- Footer social media links --- #
@@ -224,7 +224,6 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
-  - docs/
 
 plugins:
   - jekyll-paginate
