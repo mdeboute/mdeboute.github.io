@@ -14,11 +14,11 @@ author: Martin Debouté
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  À propos: "aboutme"
+  About me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Mon CV: "/_docs/CV_2021.pdf"
+  My CV: "/_docs/CV_2021.pdf"
 
 # --- Logo --- #
 
