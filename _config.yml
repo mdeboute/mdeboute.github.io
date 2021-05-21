@@ -18,7 +18,7 @@ navbar-links:
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  My CV: "/_docs/CV_2021.pdf"
+  My CV: "/docs/CV_2021.pdf"
 
 # --- Logo --- #
 
