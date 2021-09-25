@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: La Recherche Opérationnelle, kézako ?
+subtitle: L'optimisation pour l'aide à la décision en bref
+tags: [RO]
 comments: true
 ---
 

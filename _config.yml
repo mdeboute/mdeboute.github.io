@@ -14,11 +14,11 @@ author: Martin Debouté
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About me: "aboutme"
+  À propos: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  My CV: "/docs/CV_2021.pdf"
+  Mon CV: "/docs/CV.pdf"
 
 # --- Logo --- #
 
@@ -93,7 +93,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "martin,deboute,mdeboute,debouté"
+keywords: "martin,deboute,mdeboute,debouté, martin debouté, martin deboute"
 
 # --- Colours / background image --- #
 
