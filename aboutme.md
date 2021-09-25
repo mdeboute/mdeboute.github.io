@@ -13,9 +13,9 @@ J’aime allier toutes ces passions dans des projets. Je suis actuellement ambas
 
 ## Mes objectifs 🎯
 
-Ils sont simples, je veux développer mes compétences à travers des projets que je partage notamment sur mon site, et également partager tout ce que je sais pour aider d’autres personnes à developper leurs compétences.
+Ils sont simples, je veux développer mes compétences à travers des projets que je partage notamment sur mon site, et également partager tout ce que je sais pour aider d’autres personnes à développer leurs compétences.
 
 
 ## Mes loisirs 🏋️‍♂️
 
-En dehors de mes études je fais beaucoup de sport comme le crossfit/la musculation, je suis un grand cinéphile et la musique est très importante pour moi. J'essaye continuellement de repousser mes limites et devenir quelqu'un de meilleur.
+En dehors de mes études je fais beaucoup de sport comme le crossfit, je suis un grand cinéphile et la musique est très importante pour moi. J'essaye continuellement de repousser mes limites et devenir quelqu'un de meilleur.
