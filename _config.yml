@@ -39,7 +39,6 @@ title-img: "/assets/img/logo/logo_small_icon_only.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-<<<<<<< HEAD
   email: "martin.deboute@gmail.com"
   github: mdeboute
   linkedin: mdeboute
@@ -50,15 +49,6 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  facebook: deanattali
-=======
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
->>>>>>> 4201212002550b38f23ebdef6bf18ac60a9e2444
 #  medium: yourname
 #  reddit: yourname
 #  xing: yourname
@@ -72,17 +62,11 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+#  discord: invite/invite_code or users/userid
 
-<<<<<<< HEAD
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
 # rss-description: This website is a virtual proof that I'm awesome
-=======
-# If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
->>>>>>> 4201212002550b38f23ebdef6bf18ac60a9e2444
 
 # --- General options --- #
 
@@ -201,9 +185,9 @@ google_analytics: "298663486"
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
 
 # To use giscus comments:
-# (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository, 
+# (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository,
 # (2) Install the giscus app in your repository (details at https://giscus.app),
-# (3) Fill in *all* the parameters below 
+# (3) Fill in *all* the parameters below
 # See more details about giscus and each of the following parameters at https://giscus.app
 #giscus:
 #  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
