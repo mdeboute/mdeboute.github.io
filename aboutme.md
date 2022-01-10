@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Qui suis-je ?
-
 ---
 
 ## Mon profil 👨‍💻
