@@ -2,7 +2,7 @@
 layout: page
 title: Projets
 subtitle: Voici une liste non exhaustive de projets
-tags: [Optimisation, I.A, R.O]
+tags: [Optimisation, IA, RO]
 ---
 
 # Maximum profit rooted sub tree with capacity constraints
