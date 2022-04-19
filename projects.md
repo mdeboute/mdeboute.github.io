@@ -5,13 +5,21 @@ subtitle: Voici une liste non exhaustive de projets
 tags: [Optimisation, IA, RO]
 ---
 
+# Graph partition optimization
+
+Un projet portant sur l'implémentation de diverses méta-heuristiques afin de résoudre un problème de partitionnement de graphes :
+
+- [![Github badge](https://img.shields.io/badge/Dépôt%20Github-red.svg?style=for-the-badge&logo=github&logoWidth=20)](https://github.com/mdeboute/graph_partition_optim)
+
+- [![Rapport badge](https://img.shields.io/badge/Rapport%20Final-blue.svg?style=for-the-badge&logo=latex)](/projects/rapport_graph_partition_optim.pdf)
+
 # Maximum profit rooted sub tree with capacity constraints
 
 Un petit projet d'optimisation permettant de comprendre comment fonctionne Python-MIP en pratique :
 
 - [![Github badge](https://img.shields.io/badge/Dépôt%20Github-red.svg?style=for-the-badge&logo=github&logoWidth=20)](https://github.com/mdeboute/rooted_subtree_optim)
 
-- [![Rapport badge](https://img.shields.io/badge/Rapport%20Final-blue.svg?style=for-the-badge&logo=latex)](/projects/Rapport_subtree_optim.pdf)
+- [![Rapport badge](https://img.shields.io/badge/Rapport%20Final-blue.svg?style=for-the-badge&logo=latex)](/projects/rapport_subtree_optim.pdf)
 
 # Machine Learning on Fashion MNIST
 
