@@ -13,6 +13,9 @@ author: Martin Debouté
 
 # --- List of links in the navigation bar --- #
 
+target-blank:
+  Mon CV: true
+
 navbar-links:
   Projets: "projects"
   À propos: "aboutme"
