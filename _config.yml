@@ -14,7 +14,7 @@ author: Martin Debouté
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Accueil: ""
+  Accueil: "/"
   Projets: "projects"
   À propos: "aboutme"
   Mon CV: "/docs/CV_Martin_Debouté.pdf"
