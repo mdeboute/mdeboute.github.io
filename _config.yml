@@ -13,15 +13,10 @@ author: Martin Debouté
 
 # --- List of links in the navigation bar --- #
 
-target-blank:
-  Mon CV: true
-
 navbar-links:
+  Accueil: ""
   Projets: "projects"
   À propos: "aboutme"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
   Mon CV: "/docs/CV_Martin_Debouté.pdf"
 
 # --- Logo --- #
